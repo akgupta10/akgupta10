@@ -10,14 +10,17 @@ I'm Dr Abhilash Kumar Gupta, from India.
 ### ⚡️ Currently ⚡️
 - 🌱 Learning Python and KNIME
 - ⚡ Brushing up on data cleaning and wrangling skills
-- SQL: Maven Analytics Advanced MySQL Data Analysis and Business Intelligence
+- 🌱 SQL: Maven Analytics Advanced MySQL Data Analysis and Business Intelligence
 
 ### 💡 Core Competencies 💡
-- Tools: SQL, R, Tableau, Excel
+- Tools: SQL, R, Tableau, Excel, MATLAB
 - Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Querying, Dashboard Design
 
-### 🙌🏻 Connect with Me
+### 🙌🏻 Find Me Here
 - [LinkedIn](http://www.linkedin.com/in/abhilash-kumar-gupta)
+- [Tableau Public](https://public.tableau.com/app/profile/abhilash.kumar.gupta)
+- [Google Scholar](https://scholar.google.com/citations?user=r1w3W74AAAAJ&hl=en&authuser=3)
+- [Website](https://linktr.ee/abhilash.gupta)
 
 <!--
 **akgupta10/akgupta10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
