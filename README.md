@@ -9,6 +9,7 @@ I'm Dr Abhilash Kumar Gupta, from India.
 
 ### ⚡️ Currently ⚡️
 - 🌱 Learning Python and KNIME
+- 🛠 Working on a few portfolio projects
 - ⚡ Brushing up on data cleaning and wrangling skills
 - 🌱 SQL: Maven Analytics Advanced MySQL Data Analysis and Business Intelligence
 
